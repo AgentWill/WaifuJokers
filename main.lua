@@ -4,7 +4,6 @@
 --- PREFIX: waifu
 --- MOD_AUTHOR: [Gibovich, AgentWill]
 --- MOD_DESCRIPTION: Balatro Waifu Jokers Texture Pack, modified by AgentWill to work with Malverk, with art by hosses21 on twitter
---- VERSION: 1.0.0
 --- DEPENDENCIES: [malverk]
 
 AltTexture{
