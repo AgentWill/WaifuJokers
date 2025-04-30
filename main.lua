@@ -68,14 +68,6 @@ AltTexture{
 		'j_yorick',
 		'j_chicot',
 		'j_perkeo'
-	},
-	soul_keys = {
-		'j_hologram',
-		'j_caino',
-		'j_triboulet',
-		'j_yorick',
-		'j_chicot',
-		'j_perkeo'
 	}
 }
 
