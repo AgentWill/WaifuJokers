@@ -16,7 +16,7 @@ AltTexture{
 		'j_greedy_joker',
 		'j_lusty_joker',
 		'j_wrathful_joker',
-		'j_gluttonous_joker',
+		'j_gluttenous_joker',
 		'j_jolly',
 		'j_zany',
 		'j_mad',
@@ -27,37 +27,45 @@ AltTexture{
 		'j_clever',
 		'j_devious',
 		'j_crafty',
+		
 		'j_half',
 		'j_marble',
 		'j_misprint',
 		'j_chaos',
+		
 		'j_steel_joker',
 		'j_gros_michel',
 		'j_even_steven',
 		'j_odd_todd',
 		'j_scholar',
+		
 		'j_blackboard',
 		'j_ice_cream',
 		'j_faceless',
 		'j_green_joker',
+		
 		'j_cavendish',
 		'j_square',
 		'j_hologram',
 		'j_baron',
-		'j_photgraph',
+		
+		'j_photograph',
 		'j_fortune_teller',
-		'j_stoner',
+		'j_stone',
 		'j_golden',
+		
 		'j_flash',
+		
 		'j_mr_bones',
 		'j_smeared',
 		'j_throwback',
 		'j_glass',
+		
 		'j_ring_master',
 		'j_blueprint',
 		'j_wee',
 		'j_merry_andy',
-		'j_brainstorm',
+		
 		'j_drivers_license',
 		'j_cartomancer',
 		'j_astronomer',
